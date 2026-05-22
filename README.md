@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Madhav 👋
 
-<!--
-**madhav16/madhav16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Gandhidham, currently based in Surat, India. 
+2+ years building real-time web apps and IoT data systems.
 
-Here are some ideas to get you started:
+## What I work with
+- **Frontend:** React.js, Vite, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MySQL, Redis
+- **Real-time:** MQTT, WebSockets
+- **Infra:** AWS EC2, Docker, Nginx, Ubuntu VPS, PM2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+📫 maddygyani15@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/madhav-gianchandani-016731230)
